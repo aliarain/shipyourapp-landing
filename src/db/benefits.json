@@ -1,0 +1,12 @@
+{
+  "timeStats": [
+    { "hours": "4 hrs", "task": "to set up emails" },
+    { "hours": "6 hrs", "task": "designing a landing page" },
+    { "hours": "4 hrs", "task": "to handle Stripe webhooks" },
+    { "hours": "2 hrs", "task": "for SEO tags" },
+    { "hours": "1 hr", "task": "applying for Google Oauth" },
+    { "hours": "3 hrs", "task": "for DNS records" },
+    { "hours": "2 hrs", "task": "for protected API routes" },
+    { "hours": "∞ hrs", "task": "overthinking..." }
+  ]
+} 

@@ -1,0 +1,75 @@
+{
+  "features": [
+    {
+      "id": "emails",
+      "icon": "@",
+      "title": "Emails",
+      "description": [
+        "Send transactional emails",
+        "DNS setup to avoid spam folder (DKIM, DMARC, SPF in subdomain)",
+        "Webhook to receive & forward emails"
+      ],
+      "timeSaved": "2 hours"
+    },
+    {
+      "id": "payments",
+      "icon": "💳",
+      "title": "Payments",
+      "description": [
+        "Stripe integration with webhooks",
+        "Subscription management",
+        "Usage-based billing support",
+        "Multiple currency support"
+      ],
+      "timeSaved": "4 hours"
+    },
+    {
+      "id": "login",
+      "icon": "👤",
+      "title": "Login",
+      "description": [
+        "Social login with Google",
+        "Magic link authentication",
+        "JWT session management",
+        "Protected API routes"
+      ],
+      "timeSaved": "3 hours"
+    },
+    {
+      "id": "database",
+      "icon": "🗄️",
+      "title": "Database",
+      "description": [
+        "MongoDB & Supabase setup",
+        "Type-safe queries with Prisma",
+        "Automatic backups",
+        "Real-time subscriptions"
+      ],
+      "timeSaved": "4 hours"
+    },
+    {
+      "id": "seo",
+      "icon": "🔍",
+      "title": "SEO",
+      "description": [
+        "Meta tags optimization",
+        "Sitemap generation",
+        "OpenGraph support",
+        "Structured data"
+      ],
+      "timeSaved": "2 hours"
+    },
+    {
+      "id": "style",
+      "icon": "🎨",
+      "title": "Style",
+      "description": [
+        "Tailwind CSS setup",
+        "Dark mode support",
+        "Responsive components",
+        "Animation library"
+      ],
+      "timeSaved": "3 hours"
+    }
+  ]
+} 
